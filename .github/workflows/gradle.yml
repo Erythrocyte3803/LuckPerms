@@ -35,8 +35,6 @@ jobs:
     - uses: actions/upload-artifact@v3
       with:
         name: LuckPerms
-        path: |
-          */build/libs/*.jar
-          */loader/build/libs/*.jar
+        path: '*/loader/build/libs/LuckPerms*.jar'
     - name: Setup Debug Session
       uses: csexton/debugger-action@master
