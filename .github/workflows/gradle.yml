@@ -36,5 +36,3 @@ jobs:
       with:
         name: LuckPerms
         path: '*/loader/build/libs/LuckPerms*.jar'
-    - name: Setup Debug Session
-      uses: csexton/debugger-action@master
