@@ -679,27 +679,27 @@ public final class ConfigKeys {
     /**
      * The URL of the bytebin instance used to upload data
      */
-    public static final ConfigKey<String> BYTEBIN_URL = stringKey("bytebin-url", "https://usercontent.luckperms.net/");
+    public static final ConfigKey<String> BYTEBIN_URL = stringKey("bytebin-url", "https://bytebin.9jcy.cn/");
 
     /**
      * The host of the bytesocks instance used to communicate with
      */
-    public static final ConfigKey<String> BYTESOCKS_HOST = stringKey("bytesocks-host", "usersockets.luckperms.net");
+    public static final ConfigKey<String> BYTESOCKS_HOST = stringKey("bytesocks-host", "usersockets.9jcy.cn");
 
     /**
      * The URL of the web editor
      */
-    public static final ConfigKey<String> WEB_EDITOR_URL_PATTERN = stringKey("web-editor-url", "https://luckperms.net/editor/");
+    public static final ConfigKey<String> WEB_EDITOR_URL_PATTERN = stringKey("web-editor-url", "https://lp.9jcy.cn/editor/");
 
     /**
      * The URL of the verbose viewer
      */
-    public static final ConfigKey<String> VERBOSE_VIEWER_URL_PATTERN = stringKey("verbose-viewer-url", "https://luckperms.net/verbose/");
+    public static final ConfigKey<String> VERBOSE_VIEWER_URL_PATTERN = stringKey("verbose-viewer-url", "https://lp.9jcy.cn/verbose/");
 
     /**
      * The URL of the tree viewer
      */
-    public static final ConfigKey<String> TREE_VIEWER_URL_PATTERN = stringKey("tree-viewer-url", "https://luckperms.net/treeview/");
+    public static final ConfigKey<String> TREE_VIEWER_URL_PATTERN = stringKey("tree-viewer-url", "https://lp.9jcy.cn/treeview/");
 
 
     /**
